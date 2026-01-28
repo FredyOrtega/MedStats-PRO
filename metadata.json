@@ -1,0 +1,5 @@
+{
+  "name": "MedStats Radiology Analytics",
+  "description": "Professional radiology statistical analysis tool for processing medical reports, classifying specialists, and identifying contrast and special studies from flat files.",
+  "requestFramePermissions": []
+}
